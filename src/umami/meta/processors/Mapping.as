@@ -1,14 +1,14 @@
-package tapestry.meta.processors
+package umami.meta.processors
 {
     import flash.utils.Dictionary;
 
     import flash.utils.getDefinitionByName;
 
-    import tapestry.injection.IInjector;
-    import tapestry.injection.Injector;
-    import tapestry.meta.IMeta;
-    import tapestry.meta.IMetaProcessor;
-    import tapestry.meta.getConstructor;
+    import umami.injection.IInjector;
+    import umami.injection.Injector;
+    import umami.meta.IMeta;
+    import umami.meta.IMetaProcessor;
+    import umami.meta.getConstructor;
 
     /**
      * Maps the value to a local injector or a global

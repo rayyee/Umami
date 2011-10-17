@@ -1,4 +1,4 @@
-package tapestry.meta
+package umami.meta
 {
     import flash.utils.Proxy;
     import flash.utils.getDefinitionByName;

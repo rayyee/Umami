@@ -1,4 +1,4 @@
-package tapestry.meta
+package umami.meta
 {
     import flash.utils.Dictionary;
     import flash.utils.describeType;
@@ -123,7 +123,7 @@ package tapestry.meta
     }
 }
 
-import tapestry.meta.IMetaProcessor;
+import umami.meta.IMetaProcessor;
 
 import flash.utils.Dictionary;
 

@@ -1,4 +1,4 @@
-package tapestry.features
+package umami.features
 {
     public class ViewProcessor
     {

@@ -6,13 +6,13 @@
  * This file is licensed under the terms of the MIT license, which is included
  * in the license.txt file at the root directory of this library.
  ******************************************************************************/
-package tapestry.injection
+package umami.injection
 {
     import flash.utils.Dictionary;
     import flash.utils.describeType;
     import flash.utils.getDefinitionByName;
 
-    import tapestry.meta.getConstructor;
+    import umami.meta.getConstructor;
 
     /**
      * The Default implementation for the IInjector interface. It provides

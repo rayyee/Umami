@@ -6,7 +6,7 @@
  * This file is licensed under the terms of the MIT license, which is included
  * in the license.txt file at the root directory of this library.
  ******************************************************************************/
-package tapestry.injection
+package umami.injection
 {
     /**
      * IInjector is an interface that specifies a simple Dependency

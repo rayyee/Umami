@@ -1,4 +1,4 @@
-package tapestry.meta
+package umami.meta
 {
     /**
      * IMetaProcessor will process a metadata tag

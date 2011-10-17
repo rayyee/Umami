@@ -2,7 +2,7 @@ package
 {
     import flash.display.Sprite;
 
-    import tapestry.core.Tapestry;
+    import umami.core.Tapestry;
 
     import test.TestFeature;
 

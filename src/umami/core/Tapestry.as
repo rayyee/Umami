@@ -1,17 +1,17 @@
-package tapestry.core
+package umami.core
 {
     import flash.display.Sprite;
 
-    import tapestry.meta.processors.Create;
-    import tapestry.meta.processors.Mapping;
-    import tapestry.meta.processors.Service;
-    import tapestry.injection.IInjector;
-    import tapestry.meta.IMeta;
-    import tapestry.meta.MetaUtil;
-    import tapestry.meta.processors.Processor;
+    import umami.meta.processors.Create;
+    import umami.meta.processors.Mapping;
+    import umami.meta.processors.Service;
+    import umami.injection.IInjector;
+    import umami.meta.IMeta;
+    import umami.meta.MetaUtil;
+    import umami.meta.processors.Processor;
 
     /**
-     * Main class for creating an AS3 tapestry application
+     * Main class for creating an AS3 umami application
      *
      * Lifecycle: All task
      *  * [Service]
@@ -27,7 +27,7 @@ package tapestry.core
         //	Public Static Methods
         //_____________________________________________________________________
         /**
-         * Initializes the tapestry application and begins processing
+         * Initializes the umami application and begins processing
          * features added to the application
          * @param root
          */

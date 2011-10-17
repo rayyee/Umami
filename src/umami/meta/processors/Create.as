@@ -1,9 +1,9 @@
-package tapestry.meta.processors
+package umami.meta.processors
 {
     import flash.utils.Dictionary;
 
-    import tapestry.meta.IMeta;
-    import tapestry.meta.IMetaProcessor;
+    import umami.meta.IMeta;
+    import umami.meta.IMetaProcessor;
 
     import flash.utils.getDefinitionByName;
     

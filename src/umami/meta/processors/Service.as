@@ -1,8 +1,8 @@
-package tapestry.meta.processors
+package umami.meta.processors
 {
     import flash.utils.getDefinitionByName;
 
-    import tapestry.meta.getConstructor;
+    import umami.meta.getConstructor;
 
     /**
      * Creates and maps a Service in the global injector so

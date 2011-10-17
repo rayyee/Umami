@@ -1,7 +1,7 @@
 package test
 {
-    import tapestry.meta.IMeta;
-    import tapestry.meta.IMetaProcessor;
+    import umami.meta.IMeta;
+    import umami.meta.IMetaProcessor;
 
     public class TestProcessor implements IMetaProcessor
     {

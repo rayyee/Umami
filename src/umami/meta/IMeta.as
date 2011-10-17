@@ -1,4 +1,4 @@
-package tapestry.meta
+package umami.meta
 {
     /**
      * Class for interpreting Metadata
