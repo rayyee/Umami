@@ -10,6 +10,7 @@ package test
         [Service(mapAs="test.ITestService")]
         public var testService:TestService;
 
+        [Map]
         [Processor(name="Test")]
         public var processor:TestProcessor;
 

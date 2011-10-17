@@ -6,6 +6,9 @@ package test
         {
         }
 
+        [Inject]
+        public var processor:TestProcessor;
+
         [PostInject]
         public function doSomething():void
         {
