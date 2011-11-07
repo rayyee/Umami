@@ -21,7 +21,7 @@ package umami.core
      *  * Other Processors
      *  * Apply Injections
      */
-    public class Tapestry
+    public class Umami
     {
         //_____________________________________________________________________
         //	Public Static Methods

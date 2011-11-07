@@ -2,7 +2,7 @@ package
 {
     import flash.display.Sprite;
 
-    import umami.core.Tapestry;
+    import umami.core.Umami;
 
     import test.TestFeature;
 
@@ -11,8 +11,8 @@ package
     {
         public function SampleApp()
         {
-            Tapestry.addFeature(new TestFeature());
-            Tapestry.initialize(this);
+            Umami.addFeature(new TestFeature());
+            Umami.initialize(this);
         }
     }
 }
